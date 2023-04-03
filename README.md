@@ -3,7 +3,7 @@ A collection of icons for dashboards, and other projects. The repository provide
 ## unifi icons
 ---
 <!-- UNIFI -->
-<img src="unifi/UDM-Pro.png" alt="UDM-Pro" width="50"> <img src="unifi/unifi-controller.png" alt="unifi-controller" width="50"> <img src="unifi/unifi-protect.png" alt="unifi-protect" width="50"> <img src="unifi/unifi.png" alt="unifi" width="50">
+<img src="unifi/UDM-Pro.png" alt="UDM-Pro" width="50"> <img src="unifi/USW-24-PoE-.png" alt="USW-24-PoE-" width="50"> <img src="unifi/USW-Aggregation.png" alt="USW-Aggregation" width="50"> <img src="unifi/USW-Pro-24-PoE.png" alt="USW-Pro-24-PoE" width="50"> <img src="unifi/unifi-controller.png" alt="unifi-controller" width="50"> <img src="unifi/unifi-protect.png" alt="unifi-protect" width="50"> <img src="unifi/unifi.png" alt="unifi" width="50">
 <!-- END UNIFI -->
 
 ## app icons
